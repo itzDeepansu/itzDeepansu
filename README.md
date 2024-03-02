@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itzDeepansu
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on Web-Apps
 - 📫 How to reach me itzdeepansu@gmail.com
 
