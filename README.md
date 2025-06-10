@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @itzDeepansu
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on Web-Apps
-- 📫 How to reach me itzdeepansu@gmail.com
-
-<!---
-itzDeepansu/itzDeepansu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Deepansu
+🎓 B.E. CSE (AI & ML) @ Chandigarh University
+💻 Full-Stack Dev | Real-time Apps | WebSockets
+🛠️ Tech: Next.js | React | Node.js | Socket.io | Supabase
+📦 Projects: XZIST ⚡ | ShopNi 🛒 | DTC Planner 🚌
+🏆 SIH Qualified | Hackathon 🥇 & Finalist
+💡 Creative | Team Player | Quick Learner
+📊 200+ LeetCode Problems Solved
+🌐 Portfolio | 📧 itzdeepansu@gmail.com
